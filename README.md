@@ -1,8 +1,8 @@
 Deedy-Resume
 =========================
 
-A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to a **graduate Data Scientist** student.
-As of **v1.2**, there is one template:
+A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to a **graduate Data Scientist**. Taken from [Debarghya Das](https://github.com/deedy/Deedy-Resume).
+As of **v1.3**, there is one template:
 
 1. **OpenFonts** - uses free, open-source fonts that resemble the above - *Lato* (and its various variants) and *Raleway*.
 
