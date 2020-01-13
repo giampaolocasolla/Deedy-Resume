@@ -17,7 +17,7 @@ This template attempts to **look clean**, highlight **details**, be a **single p
 ## Preview
 
 ### OpenFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/OpenFonts/sample-image.png)
+![alt tag](https://github.com/giampaolocasolla/giampaolocasolla-Resume/blob/master/OpenFonts/sample-image.png)
 
 ## Dependencies
 
@@ -25,7 +25,7 @@ This template attempts to **look clean**, highlight **details**, be a **single p
 
 ## Availability
 
-1. OpenFonts version - [as a direct download](https://github.com/deedydas/Deedy-Resume/raw/master/OpenFonts/deedy_resume-openfont.pdf)
+1. OpenFonts version - [as a direct download](https://github.com/giampaolocasolla/giampaolocasolla-Resume/blob/master/OpenFonts/deedy_resume-openfont.pdf)
 
 ## Changelog
 
