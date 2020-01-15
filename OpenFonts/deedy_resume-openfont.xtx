@@ -105,8 +105,7 @@
 		\subsection{Federico II University}
 		\descript{Bs in Mathematics}
 		\location{Graduated Oct 2016 | Naples, IT}
-		Thesis in \textbf{Statistics}: "\textit{Models for Binary Choice}" \\
-		\location{Final mark: 104/110}
+		Thesis in \textbf{Statistics}: "\textit{Models for Binary Choice}"
 		\sectionsep
 		
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -116,11 +115,10 @@
 		\section{Skills}
 		\subsection{Technical Skills}
 		\location{Proficient with:}
-		Python \textbullet{} R \textbullet{} NoSQL \textbullet{} Scikit-learn \\
-		pandas \textbullet{} NumPy \textbullet{} ggplot2 \textbullet{} dplyr \\
-		TensorFlow \textbullet{} \LaTeX\ \\ 
-		\location{Familiar with:}
-		SQL \textbullet{} Linux \textbullet{} C \textbullet{} Matlab \textbullet{} Fortran
+		Python \textbullet{} R \textbullet{} pandas \textbullet{} Scikit-learn \\
+		NumPy \textbullet{} TensorFlow \textbullet{} ggplot2 \textbullet{} dplyr \\
+		 NoSQL \textbullet{} SQL \textbullet{} \LaTeX\ \textbullet{} Linux \textbullet{} C \\ 
+		 Matlab \textbullet{} Fortran
 		\sectionsep
 		
 		\subsection{Soft Skills}
@@ -173,7 +171,7 @@
 		\location{Sep 2019 – Feb 2020 | Naples, IT}
 		\vspace{\topsep} % Hacky fix for awkward extra vertical space
 		\begin{tightemize}
-			\item Migrate 10 million data from SQL database to KG database.
+			\item Migrate 10 million rows of unstructured data from SQL to KG database.
 			\item Extensive Data Cleaning based on NLP to retrieve 94\% of the data.
 			\item Used state-of-the-art Embeddings to apply Clustering and Supervised Learning.
 			\item Presented at International Conference \href{https://grakncosmos.com/sessions\#session-Insights\%20Extraction\%20Through\%20a\%20Knowledge\%20Graph\%20of\%20Medical\%20Booking\%20Data}{Grakn Cosmos 2020} in London.
@@ -185,7 +183,7 @@
 		\descript{ }
 		\location{Jan 2019 – Aug 2019 | Naples, IT}
 		\begin{tightemize}
-			\item Created an efficient way to analyze paths of visitors inside a museum.
+			\item Developed an efficient way to analyze the paths of visitors inside a museum.
 			\item Implemented a \textit{k} selection strategy for Clustering based on an \textit{ensemble} approach through a \textit{voting technique}.
 			\item Published 3 papers on Top journals.
 		\end{tightemize}
